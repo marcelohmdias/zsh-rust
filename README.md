@@ -25,4 +25,4 @@ This **zsh-rust** plugin has not been reviewed, endorsed, or approved by the Rus
 
 ## License
 
-The **zsh-rust** plugin is released under the [Apache License 2.0](https://github.com/wintermi/zsh-rust/blob/main/LICENSE) unless explicitly mentioned in the file header.
+The **zsh-rust** plugin is released under the [Apache License 2.0](https://github.com/marcelohmdias/zsh-rust/blob/main/LICENSE) unless explicitly mentioned in the file header.
